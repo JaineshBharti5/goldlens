@@ -12,6 +12,7 @@
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
 ![Hackathon](https://img.shields.io/badge/Hack%20in%20Hills-'26-gold)
 
+**Team 3 Musketeers**
 
 </div>
 
